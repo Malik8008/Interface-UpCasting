@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Interface-UpCasting-Task/1.0.0": {
+        "runtime": {
+          "Interface-UpCasting-Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interface-UpCasting-Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
